@@ -1,2 +1,2 @@
 # modulos-blue
- execicios referenta as aulas
+ execícios referente as aulas
